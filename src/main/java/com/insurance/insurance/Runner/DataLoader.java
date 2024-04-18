@@ -12,6 +12,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+
+//To load the data into databases
 @Component
 public class DataLoader implements ApplicationRunner {
 
